@@ -18,3 +18,13 @@
     /* background-color: rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(15px); */
 }
+
+.message {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
